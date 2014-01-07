@@ -14,24 +14,24 @@ Building
 --------
 
 The project can be built using the standard
-GNU 'make' program.  Just type 
+GNU `make` program.  Just type 
 
-'$ make'
+`$ make`
 
 or
 
-'$ make all'
+`$ make all`
 
 in a command line to build the entire project with 
 tests.  
 
 To clean, type
 
-'$ make clean'
+`$ make clean`
 
 You can also combine these by typing
 
-'$ make clean all'
+`$ make clean all`
 
 
 Running
@@ -40,11 +40,11 @@ Running
 Since this was created for a class, the primary purpose
 for running is testing.  To pass the tests for the 
 given project specs, compile everything using the 
-Makefile, then run 'check.py'.  This program will 
+Makefile, then run `check.py`.  This program will 
 take care of everything testingwise.
 
 Part 2 of the project was taken care of using the 
-'run\_quicksort.sh' program.  This script cleans
+`run\_quicksort.sh` program.  This script cleans
 and builds the project again, determines the optimum 
 recursive depth for each number of threads in quicksort,
 runs quicksort at that depth, saves the results in a 

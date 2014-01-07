@@ -1,0 +1,10 @@
+#image files
+*.png
+*.eps
+
+#miscellaneous data files
+*.txt
+
+#other
+*.pdf
+*.tar.gz

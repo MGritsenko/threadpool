@@ -44,7 +44,7 @@ Makefile, then run `check.py`.  This program will
 take care of everything testingwise.
 
 Part 2 of the project was taken care of using the 
-`run\_quicksort.sh` program.  This script cleans
+`run_quicksort.sh` program.  This script cleans
 and builds the project again, determines the optimum 
 recursive depth for each number of threads in quicksort,
 runs quicksort at that depth, saves the results in a 
